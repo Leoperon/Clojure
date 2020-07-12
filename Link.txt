@@ -1,1 +1,3 @@
 https://purelyfunctional.tv/guide/how-to-install-clojure/#windows
+
+http://www.4clojure.com/problems
